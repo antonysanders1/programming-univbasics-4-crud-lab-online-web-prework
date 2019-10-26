@@ -7,6 +7,7 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
+  siblings = ["Robert", "Ashley", "Antony", "Tiona"]
   siblings.push ("Kristen")
 end
 
