@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
- Siblings = [Robert, Ashley, Antony, Tiona]
+ siblings = [Robert, Ashley, Antony, Tiona]
 end
 
 def add_element_to_end_of_array(array, element)
-#  Siblings.push ("Kristen")
+  siblings.push ("Kristen")
 end
 
 def add_element_to_start_of_array(array, element)
