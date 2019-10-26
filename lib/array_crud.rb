@@ -3,23 +3,23 @@ def create_an_empty_array
 end
 
 def create_an_array
-  [Robert, Ashley, Antony, Tiona]
+ Siblings = [Robert, Ashley, Antony, Tiona]
 end
 
 def add_element_to_end_of_array(array, element)
-//  Siblings.push ("Kristen")
+#  Siblings.push ("Kristen")
 end
 
 def add_element_to_start_of_array(array, element)
-//  Siblings.unshift ("Charnesia")
+#  Siblings.unshift ("Charnesia")
 end
 
 def remove_element_from_end_of_array(array)
-//  Siblings.pop
+#  Siblings.pop
 end
 
 def remove_element_from_start_of_array(array)
-//  Siblings.shift
+#  Siblings.shift
 end
 
 def retrieve_element_from_index(array, index_number)
